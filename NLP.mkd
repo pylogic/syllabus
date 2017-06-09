@@ -1,0 +1,12 @@
+# Syllabus for NLP
+
+Natural languange processing subjects consist of following topics:
+
+- n-gram
+- computer semantics: minimal recursion semantic, wordnet, natural language understanding, 
+- Sentiment analysis
+- word2vec
+- text segmentation
+- dialog system
+- part of speech tagging
+- 
