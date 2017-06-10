@@ -9,4 +9,8 @@ Natural languange processing subjects consist of following topics:
 - text segmentation
 - dialog system
 - part of speech tagging
-- 
+- semantic models
+
+### Overview
+The NLP job include the text corpus understanding and application in English and Chinese(simpl).
+
