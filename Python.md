@@ -6,7 +6,7 @@ this part's goal it organisation for a python learning process
 -  offer interview questions (e.g. https://github.com/Yannyezixin/offer-interview)
 
 ### Introduce Python
-
+and python cookbook
 
 ### Python official document focuses
 
