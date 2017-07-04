@@ -30,3 +30,6 @@ e,make html
 
 Read the Docs: https://readthedocs.org/
 
+
+
+example:./examples/rstonline
