@@ -1,1 +1,4 @@
-final work: https://readthedocs.org/projects/rstonline/ (doc for Online Rst)
+﻿***final work:***  [doc for Online Rst][1]
+
+
+  [1]: https://readthedocs.org/projects/rstonline/
