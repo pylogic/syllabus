@@ -4,9 +4,8 @@
 ***crawling***
 
  - crawling from : [source urls][1] 
- - first, crawling the urls containing
- - codes we want from source urls second, crawling codes from urls we
-   get in first step
+ - first, crawling the urls containing codes we want from source urls 
+ - second, crawling codes from urls we get in first step
 
 ***storing: use mongoDB***
 
