@@ -1,12 +1,10 @@
 # Overview of K.A.
 
-## 1
-* what is machine learning?
-* what is superised learning n unsupervised learning?
-* regression and classification
-* clustering, non-clustering
-* model representation
-* cost function
+## Contents 
+1. basic concepts of machine learning
+2. how one variable linear regression model works
+3. 
+
 
 
 
